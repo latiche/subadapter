@@ -98,7 +98,7 @@ namespace SubAdapter
                             // DateTime.Parse(string, provider) .AddSecond
                             // créer un objet sstitre qui contient un id, une datedébut, datefin, texte
 
-                            //to do textbox nb de scondes de décalage
+                            //to do textbox nb de scondes de décalage   
 
 
                             }
